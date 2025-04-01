@@ -1,0 +1,9 @@
+il,gatto,mangia,>,il,topo
+il,gatto, ,>,miagola, 
+il,cane,mangia,>,il,gatto
+il,cane, ,>,abbaia, 
+il,topo,mangia,>,il,formaggio
+il,bimbo,chiama,>,la,mamma
+il,bimbo,mangia,>,la,pappa
+il,bimbo, ,>,piange, 
+bimbo,e,gatto,>,giocano, 

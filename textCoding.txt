@@ -1,0 +1,16 @@
+il,1
+gatto,2
+mangia,3
+topo,4
+miagola,5
+cane,6
+abbaia,7
+formaggio,8
+bimbo,9
+chiama,10
+la,11
+mamma,12
+pappa,13
+piange,14
+e,15
+giocano,16
